@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.embeds
+      - file.path
+    sort:
+      - property: file.embeds
+        direction: ASC
+      - property: file.basename
+        direction: ASC
