@@ -1,0 +1,133 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "bFKoLSVmDBUsupGrqUCk5",
+      "name": "Parent folder",
+      "value": "#ff0000"
+    },
+    {
+      "id": "ejRmOF30aHLLHweiFDrgw",
+      "name": "Subfolder",
+      "value": "#3bdf30"
+    },
+    {
+      "id": "xSrSCGau9D0PKI51qoNvE",
+      "name": "Root folder",
+      "value": "#fff700"
+    },
+    {
+      "id": "73t3goFC54h6CS6KJ53Ul",
+      "name": "Current folder",
+      "value": "#00eeff"
+    },
+    {
+      "id": "Lchb5FIOVvvgpqLTeHd0g",
+      "name": "File",
+      "value": "#ff00ea"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Automative-Engineer-Knowledge",
+      "color": "bFKoLSVmDBUsupGrqUCk5"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths",
+      "color": "ejRmOF30aHLLHweiFDrgw"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Biến đổi Laplace.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Technical Skill",
+      "color": "ejRmOF30aHLLHweiFDrgw"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/EmbeddedSystemRoadmap.png",
+      "color": "Lchb5FIOVvvgpqLTeHd0g"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/README.md",
+      "color": "ejRmOF30aHLLHweiFDrgw"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Baseline.base",
+      "color": "Lchb5FIOVvvgpqLTeHd0g"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Biến đổi Z.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Bộ điều khiển PID.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Bode plot.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Đại số tuyến tính.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Đạo hàm và Tích phân.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Đạo hàm, tích phân.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Discrete Transfer Fcn.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Giải tích & Phương trình vi phân.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Hàm truyền.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Hệ thống Rời rạc và Z-transform.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Knowledge of Mathematics & Control.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Konwledge điều khiển cho MBD.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/ODE (Ordinary Differential Equation).md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Vòng lặp phản hồi (Feedback loop).md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/What is linearization.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Z-transform.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Basic Maths/Zero-Order Hold.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    },
+    {
+      "path": "Automative-Engineer-Knowledge/Automative Roadmap.md",
+      "color": "xSrSCGau9D0PKI51qoNvE"
+    }
+  ]
+}
