@@ -8,6 +8,11 @@
   "obsidian-file-color",
   "obsidian-markmind",
   "folder-links",
-  "terminal",
-  "copilot"
+  "templater-obsidian",
+  "notebook-navigator",
+  "cmdr",
+  "obsidian-excalidraw-plugin",
+  "tasknotes",
+  "editing-toolbar",
+  "excalidraw-extras"
 ]

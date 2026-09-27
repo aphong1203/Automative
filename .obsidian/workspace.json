@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d5fd3224bd04977",
+        "id": "c4d8cdde2d222bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "9070f7080dcbc7f6",
+            "id": "fa4e80721cac87c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/30_OJT_MBD.md",
+                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,101 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30_OJT_MBD"
+              "title": "Plugins"
+            }
+          },
+          {
+            "id": "baa0fe4185415e92",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-stats-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
+            }
+          },
+          {
+            "id": "6c25da10586919f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Automative Industry Standards.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Automative Industry Standards"
+            }
+          },
+          {
+            "id": "5a590cb45b92b8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MCAL"
+            }
+          },
+          {
+            "id": "2a6448ef51db11e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plugins"
+            }
+          },
+          {
+            "id": "c0e334529c5fdba7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/XDMoverview.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "XDMoverview"
             }
           }
         ]
@@ -51,7 +145,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -63,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#KnowledgeBase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,16 +175,29 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "629fb2fb30fb9155",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 289.5
   },
   "right": {
     "id": "ab4db804862e2119",
@@ -99,51 +208,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc66528ff4587fa0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "AI/MBD Block Knowledge Base.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for MBD Block Knowledge Base"
-            }
-          },
-          {
             "id": "4800cfe13ecb2793",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automative-Engineer-Knowledge/Basic Maths/Biến đổi Laplace.md",
+                "file": "AI/MBD Block Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Biến đổi Laplace"
-            }
-          },
-          {
-            "id": "2e64bf70d2cb3004",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outgoing links"
             }
           },
           {
@@ -161,31 +236,6 @@
             }
           },
           {
-            "id": "290a4b8a88474bf8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Automative-Engineer-Knowledge/Basic Maths/Biến đổi Laplace.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Biến đổi Laplace"
-            }
-          },
-          {
-            "id": "c795cba6214764ea",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "1a389a50d4834b46",
             "type": "leaf",
             "state": {
@@ -193,16 +243,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "1249576fbfd69ace",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
             }
           },
           {
@@ -219,23 +259,93 @@
             "id": "77c936c8784ff066",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Automative-Engineer-Knowledge/Basic Maths/Knowledge of Mathematics & Control.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Knowledge of Mathematics & Control"
+            }
+          },
+          {
+            "id": "4a79d77c6e2d48c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f78ee5bdd720aa53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "603bb16b18ad9c15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "fd31dd7da3781252",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 729.5,
-    "collapsed": true
+    "width": 674.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mxmind:Mxmind": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -245,55 +355,64 @@
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false,
-      "copilot:Open Copilot Chat": false,
-      "system3-relay:Relay": false
+      "templater-obsidian:Templater": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "tasknotes:Open mini calendar view": false
     }
   },
-  "active": "9070f7080dcbc7f6",
+  "active": "fa4e80721cac87c2",
   "lastOpenFiles": [
-    "Automative-Engineer-Knowledge/Basic Maths/What is linearization.md",
-    "AI/30_OJT_MBD.md",
-    "Automative-Engineer-Knowledge/Baseline.base",
-    "Automative-Engineer-Knowledge/Basic Maths/Biến đổi Laplace.md",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
+    "Excalidraw/XDMoverview.md",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/Overview Autosar Standards.md",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL.md",
+    "TaskNotes/Views/calendar-default.base",
     "Automative-Engineer-Knowledge/Automative Roadmap.md",
-    "Automative-Engineer-Knowledge/Basic Maths/Đại số tuyến tính.md",
+    "Automative-Engineer-Knowledge/Basic Maths/Knowledge of Mathematics & Control.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Pasted image 20260927201652.png",
+    "Excalidraw/XDMoverview-mindmap.md",
+    "Excalidraw/Drawing 2026-09-27 18.33.23.excalidraw.md",
+    "TaskNotes/Tasks/Overview Autosar.md",
+    "Pasted image 20260927200258.png",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Automative Industry Standards.md",
+    "TaskNotes/Views/agenda-default.base",
+    "architecture-diagram-components.excalidrawlib",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL",
+    "Excalidraw",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Start Here.md",
+    "Excalidraw/Drawing 2026-09-27 17.08.08.excalidraw.md",
+    "AI/MBD Block Knowledge Base.md",
+    "Untitled.canvas",
+    "2026-09-26.md",
+    "AI/Variants and Callbacks.md",
+    "copilot/copilot-conversations/agent__hellp@20260926_120525.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "Automative-Engineer-Knowledge/EmbeddedSystemRoadmap.png",
     "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Image/Pasted image 20260420174342.png",
     "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Image/Pasted image 20260420173504.png",
     "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Image/Pasted image 20260420163954.png",
     "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Image/Pasted image 20260420143352.png",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Version Control/Git.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Programming/Python",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Programming/Programming.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Programming/Embedded C",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Programming/MBD",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Programming/C++",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Transistors.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Resistors.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Integrated Circuits.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Inductors.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Image",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Electronic Fundamentals.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Diodes.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Capacitors.md",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Version Control",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Testing",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Programming Fundamentals",
-    "Automative-Engineer-Knowledge 1/Technical Skill/Software/Programming",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Đạo hàm, tích phân.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Đạo hàm và Tích phân.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Đại số tuyến tính.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Zero-Order Hold.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Z-transform.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/What is linearization.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Vòng lặp phản hồi (Feedback loop).md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Unit Delay.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/State Space.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/ODE (Ordinary Differential Equation).md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Konwledge điều khiển cho MBD.md",
-    "Automative-Engineer-Knowledge 1/Basic Maths/Knowledge of Mathematics & Control.md",
-    "Automative-Engineer-Knowledge 1/EmbeddedSystemRoadmap.png",
-    "Automative-Engineer-Knowledge/EmbeddedSystemRoadmap.png"
+    "Automative-Engineer-Knowledge 1/EmbeddedSystemRoadmap.png"
   ]
 }
