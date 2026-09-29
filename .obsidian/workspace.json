@@ -30,100 +30,6 @@
               "icon": "lucide-file",
               "title": "Plugins"
             }
-          },
-          {
-            "id": "baa0fe4185415e92",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-stats-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-stats-view"
-            }
-          },
-          {
-            "id": "6c25da10586919f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Automative Industry Standards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Automative Industry Standards"
-            }
-          },
-          {
-            "id": "5a590cb45b92b8b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MCAL"
-            }
-          },
-          {
-            "id": "2a6448ef51db11e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Plugins"
-            }
-          },
-          {
-            "id": "c0e334529c5fdba7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/XDMoverview.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "XDMoverview"
-            }
           }
         ]
       }
@@ -193,7 +99,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -339,10 +246,26 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "e22b4b3063d462ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "645a11dda3128b16",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "lucide-calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 674.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -368,30 +291,31 @@
       "tasknotes:Open mini calendar view": false
     }
   },
-  "active": "fa4e80721cac87c2",
+  "active": "629fb2fb30fb9155",
   "lastOpenFiles": [
-    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
-    "Excalidraw/XDMoverview.md",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/Overview Autosar Standards.md",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL.md",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/EBTresos_HuLa.pdf",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Drawing 2026-09-28 22.17.39.excalidraw.md",
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Automative Industry Standards.md",
+    "Excalidraw/XDMoverview.md",
+    "Pasted image 20260927201652.png",
+    "Pasted image 20260927200258.png",
     "TaskNotes/Views/calendar-default.base",
     "Automative-Engineer-Knowledge/Automative Roadmap.md",
     "Automative-Engineer-Knowledge/Basic Maths/Knowledge of Mathematics & Control.md",
     "TaskNotes/Views/mini-calendar-default.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "Pasted image 20260927201652.png",
     "Excalidraw/XDMoverview-mindmap.md",
     "Excalidraw/Drawing 2026-09-27 18.33.23.excalidraw.md",
     "TaskNotes/Tasks/Overview Autosar.md",
-    "Pasted image 20260927200258.png",
-    "Automative-Engineer-Knowledge/Automative Industry Standards/Automative Industry Standards.md",
     "TaskNotes/Views/agenda-default.base",
     "architecture-diagram-components.excalidrawlib",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL",
     "Excalidraw",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Start Here.md",
     "Excalidraw/Drawing 2026-09-27 17.08.08.excalidraw.md",
     "AI/MBD Block Knowledge Base.md",
@@ -407,7 +331,6 @@
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "Automative-Engineer-Knowledge/EmbeddedSystemRoadmap.png",
     "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Image/Pasted image 20260420174342.png",
     "Automative-Engineer-Knowledge 1/Technical Skill/Hardware/Electronic Basic/Image/Pasted image 20260420173504.png",
