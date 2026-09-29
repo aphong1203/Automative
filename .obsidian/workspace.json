@@ -11,24 +11,12 @@
             "id": "fa4e80721cac87c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/EBTresos_HuLa.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Plugins"
+              "icon": "lucide-file-text",
+              "title": "EBTresos_HuLa"
             }
           }
         ]
@@ -291,12 +279,12 @@
       "tasknotes:Open mini calendar view": false
     }
   },
-  "active": "629fb2fb30fb9155",
+  "active": "fa4e80721cac87c2",
   "lastOpenFiles": [
+    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/Overview Autosar Standards.md",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL.md",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/EBTresos_HuLa.pdf",
-    "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Plugins.md",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/Drawing 2026-09-28 22.17.39.excalidraw.md",
     "Automative-Engineer-Knowledge/Automative Industry Standards/Automative Industry Standards.md",
     "Excalidraw/XDMoverview.md",
