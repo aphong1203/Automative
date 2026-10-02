@@ -23,15 +23,12 @@
             "id": "e93722b2817f559a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Report phân tích lỗi Build SIL LvrPosArea_Jdg_S.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Automative-Engineer-Knowledge/Automative Industry Standards/Autosar Standards/MCAL/EBTresos_HuLa.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Report phân tích lỗi Build SIL LvrPosArea_Jdg_S"
+              "icon": "lucide-file-text",
+              "title": "EBTresos_HuLa"
             }
           }
         ],
@@ -297,10 +294,10 @@
       "tasknotes:Open mini calendar view": false
     }
   },
-  "active": "e8f7c6bf8260d9ef",
+  "active": "e93722b2817f559a",
   "lastOpenFiles": [
-    "Đánh giá workflow ARXML composition và AUTOSAR referenced model.md",
     "AUTOSAR Classic End-to-End Guide.md",
+    "Đánh giá workflow ARXML composition và AUTOSAR referenced model.md",
     "Report phân tích lỗi Build SIL LvrPosArea_Jdg_S.md",
     "Roadmap/FDC3C800",
     "Roadmap/7F508800",
